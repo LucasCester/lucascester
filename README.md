@@ -6,7 +6,7 @@
 
 
 ## About
- - I'm a Systems Development student at <a href="https://cotuca.unicamp.br/cotuca/">Cotuca</a>
+ - I'm a Systems Development student at <a href="https://cotuca.unicamp.br/cotuca/" target="_blank">Cotuca</a>
  - English Intermediate/advanced Level 🌎
  - Perfectionist 😶
  - I'm currently learning **ReactJS** and **NodeJS** 📚
