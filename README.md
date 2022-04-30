@@ -1,4 +1,4 @@
-## Hello there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> I'm Lucas Cester 🌟
+## Hello there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> 🌟 I'm Lucas Cester 🌟
 
 <p align="center">
   <img alt="Doom fist" height="300em" src="http://68.media.tumblr.com/8f508cf8616f2e9c3b1a1ee918f5c487/tumblr_inline_odltnjIACz1twj3u6_500.gif">
