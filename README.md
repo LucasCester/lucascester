@@ -6,10 +6,11 @@
 
 
 ## About
- - I'm a Systems Development student at [Cotuca](https://cotuca.unicamp.br/cotuca/)
+ - I'm a Software Development Technician, graduated at [Cotuca](https://cotuca.unicamp.br/cotuca/)
  - English Intermediate/advanced Level 🌎
+ - Knowledge of Agile relayed on SCRUM ⚙
  - Perfectionist 😶
- - I'm currently learning **ReactJS** and **NodeJS** 📚
+ - I'm currently learning **React Native**, **Angular** and **Ionic** 📚
  <br>
 
 <div style="display: inline_block" align="center"><br>
