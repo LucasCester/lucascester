@@ -7,10 +7,9 @@
 
 ## About
  - I'm a Software Development Technician, graduated at <a href="https://cotuca.unicamp.br/cotuca/" target="_blank">COTUCA</a>
- - English Intermediate/advanced Level 🌎
+ - English advanced Level 🌎
  - Knowledge of Agile relayed on SCRUM ⚙
  - Perfectionist 😶
- - I'm currently learning **React Native**, **Angular** and **Ionic** 📚
  <br>
 
 <div style="display: inline_block" align="center"><br>
