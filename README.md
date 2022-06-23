@@ -6,7 +6,7 @@
 
 
 ## About
- - I'm a Software Development Technician, graduated at [Cotuca](https://cotuca.unicamp.br/cotuca/)
+ - I'm a Software Development Technician, graduated at <a href="https://cotuca.unicamp.br/cotuca/" target="_blank">COTUCA</a>
  - English Intermediate/advanced Level 🌎
  - Knowledge of Agile relayed on SCRUM ⚙
  - Perfectionist 😶
